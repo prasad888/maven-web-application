@@ -20,8 +20,8 @@ http://www.springframework.org/schema/task/spring-task.xsd">
 
 	<context:component-scan base-package="com.mt.*"></context:component-scan>
 
-	<mvc:annotation-driven></mvc:annotation-driven>
-	echo hiii
+	<:annotation-driven></mvc:annotation-driven>
+
 
 	
 </beans>
